@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+.idea/
+.vscode/
+.worktrees/
+
+# Keep exported examples out of source control by default.
+outputs/*
+!outputs/.gitkeep
